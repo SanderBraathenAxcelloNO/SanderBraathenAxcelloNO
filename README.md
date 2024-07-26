@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sander Braathen
+- 👋 Hi, I’m Sander Bråthen
 - 👀 I’m interested in Webdesign and Hosting
 - 🌱 I’m currently learning the will to live
 - 💞️ I’m looking to collaborate on my hosting company
